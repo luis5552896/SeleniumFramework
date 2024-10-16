@@ -6,7 +6,7 @@ namespace SeleniumFramework.Drivers
     public class WebDriveFactory
     {
         /// <summary>
-        /// maximiza pantalla
+        /// maximiza pantalla mercado libre pantalla prueba  selenium
         /// </summary>
         /// <returns></returns>
         public static IWebDriver CreateWebDriver()
